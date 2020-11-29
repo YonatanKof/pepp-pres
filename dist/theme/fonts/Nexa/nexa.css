@@ -1,14 +1,96 @@
 @font-face {
     font-family: 'Nexa';
-    font-style:  normal;
-    font-weight: 200;
-    src: url("nexa_light.otf") format("otf"),
-         url("Nexa-Light.ttf") format("ttf");
-  }
+    font-style: normal;
+    font-weight: 100;
+    src: url("Nexa-Thin.ttf") format("truetype");
+}
 @font-face {
     font-family: 'Nexa';
-    font-style:  normal;
+    font-style: italic;
+    font-weight: 100;
+    src: url("Nexa-ThinItalic.ttf") format("ttf");
+}
+@font-face {
+    font-family: 'Nexa';
+    font-style: normal;
+    font-weight: 200;
+    src: url("nexa_light.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'Nexa';
+    font-style: italic;
+    font-weight: 200;
+    src: url("nexa_lightItalic.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'Nexa';
+    font-style: normal;
+    font-weight: 300;
+    src: url("nexa_light.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'Nexa';
+    font-style: italic;
+    font-weight: 300;
+    src: url("nexa_lightItalic.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'Nexa';
+    font-style: normal;
+    font-weight: 400;
+    src: url("Nexa-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'Nexa';
+    font-style: italic;
+    font-weight: 400;
+    src: url("Nexa-RegularItalic.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'Nexa';
+    font-style: normal;
+    font-weight: 500;
+    src: url("Nexa-Bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'Nexa';
+    font-style: italic;
+    font-weight: 500;
+    src: url("Nexa-BoldItalic.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'Nexa';
+    font-style: normal;
+    font-weight: 600;
+    src: url("Nexa-ExtraBold.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'Nexa';
+    font-style: italic;
+    font-weight: 600;
+    src: url("Nexa-ExtraBoldItalic.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'Nexa';
+    font-style: normal;
+    font-weight: 700;
+    src: url("Nexa-Heavy.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'Nexa';
+    font-style: italic;
+    font-weight: 700;
+    src: url("Nexa-HeavyItalic.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'Nexa';
+    font-style: normal;
     font-weight: 900;
-    src: url("nexa_light.otf") format("otf"),
-         url("Nexa-Bold.ttf") format("ttf");
-  }
+    src: url("Nexa-Black.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'Nexa';
+    font-style: italic;
+    font-weight: 900;
+    src: url("Nexa-BlackItalic.ttf") format("truetype");
+}
