@@ -1,0 +1,158 @@
+[
+    {
+        "id": "Beauty Solutions",
+        "logo": "./dist/assets/customers/Beauty_Solutions_color.png",
+        "description": "I heard that there are ruined temples in Kurast, Perhaps you will find the Black Book in one of them.",
+        "quote": "",
+        "quoted": "",
+        "tag": "Beauty"
+    },
+    {
+        "id": "Dermalogica",
+        "logo": "./dist/assets/customers/dermalogica_color.png",
+        "description": "Elzix is quite a scoundrel, but I like him all the same.",
+        "quote": "",
+        "quoted": "",
+        "tag": "Beauty"
+    },
+    {
+        "id": "Equatorial Coca Cola Bottling Company",
+        "logo": "./dist/assets/customers/ECCBC_color.png",
+        "description": "ECCBC is Coca-Cola System’s leading bottling companies in Africa. This simple definition however does not achieve to explain all of our activities and our commitment to this continent, which has always welcomed us with open arms.",
+        "quote": "",
+        "quoted": "",
+        "tag": "Food & Beverage"
+    },
+    {
+        "id": "Hills",
+        "logo": "./dist/assets/customers/hills_color.png",
+        "description": "I thank you, friend, for coming to my aid.",
+        "quote": "",
+        "quoted": "",
+        "tag": "Food & Beverage"
+    },
+    {
+        "id": "Black Crows",
+        "logo": "./dist/assets/customers/Black-crows-trans-logo-2.png",
+        "description": "You have found a source of information powerful enough to turn the tide against the Zakarum.",
+        "quote": "",
+        "quoted": "",
+        "tag": "Sports"
+    },
+    {
+        "id": "Keune",
+        "logo": "./dist/assets/customers/Keune-logo.png",
+        "description": "We are very proud to announce that Keune is a five-time winner in the 2015 Launchpad Readers’ Choice Awards.",
+        "quote": "",
+        "quoted": "",
+        "tag": "Beauty"
+    },
+    {
+        "id": "Parsa",
+        "logo": "./dist/assets/customers/Parsa.png",
+        "description": " Everyone is beautiful – in their own, individual way.",
+        "quote": "",
+        "quoted": "",
+        "tag": "Beauty"
+    },
+    {
+        "id": "Kimberly-Clark",
+        "logo": "./dist/assets/customers/kc_logo.png",
+        "description": " Billions of people choose our products each day to make a positive difference in their lives.",
+        "quote": "",
+        "quoted": "",
+        "tag": "Home & Gifts"
+    },
+    {
+        "id": "Safilo",
+        "logo": "./dist/assets/customers/Safilo.png",
+        "description": "We believe style is about being yourself: a matter of authenticity, of consistency and personal elegance.",
+        "quote": "",
+        "quoted": "",
+        "tag": "Eyewear"
+    },
+    {
+        "id": "Seiko",
+        "logo": "./dist/assets/customers/Seiko.png",
+        "description": "The professional relies on every tool to maximize performance—at work, on the road or out about town.",
+        "quote": "",
+        "quoted": "",
+        "tag": "Jewelry & Watches"
+    },
+    {
+        "id": "Tigi",
+        "logo": "./dist/assets/customers/Tigi.png",
+        "description": "When we couldn’t find the products we wanted, we made them ourselves.",
+        "quote": "",
+        "quoted": "",
+        "tag": "Beauty"
+    },
+    {
+        "id": "Wahoo",
+        "logo": "./dist/assets/customers/Wahoo.png",
+        "description": "Built on the foundation of simplicity and the mindset that 'there’s got to be a better way.'",
+        "quote": "",
+        "quoted": "",
+        "tag": "Sports"
+    },
+    {
+        "id": "Giesswein",
+        "logo": "./dist/assets/customers/giesswein.png",
+        "description": "Quickly in and quickly out is all the advice I can give you.",
+        "quote": "Pepperi enables us to take a holistic approach to B2B sales, simplifying planning, execution and analysis. It's a joy to use and makes a striking impact. Very much like our own products",
+        "quoted": "Markus Giesswein, CEO Giesswein",
+        "tag": "Fashion",
+        "video": false,
+        "case_study": true
+    },
+    {
+        "id": "Soda Stream",
+        "logo": "./dist/assets/customers/SodaStream.png",
+        "description": "SodaStream Boosts Productivity of its Field Sales Staff & Standardizes Field Sales & Merchandising Operations.",
+        "quote": "",
+        "quoted": "",
+        "tag": "Food & Beverage",
+        "video": false,
+        "case_study": true
+    },
+    {
+        "id": "Frederique Constant",
+        "logo": "./dist/assets/customers/frederiqueconstant.png",
+        "description": "Founded in 1988, Frederique Constant is a Swiss luxury watch manufacturer, now producing over 150,000 pieces per year, sold in over 100 countries.",
+        "quote": "Implementation of Pepperi has made our sales reps more productive and freed up their time to discuss business strategy and expectations with customers",
+        "quoted": "Leo Corlay, Sales Coordinator",
+        "tag": "Jewelry & Watches",
+        "video": false,
+        "case_study": true
+    },
+    {
+        "id": "Srixon",
+        "logo": "./dist/assets/customers/srixon.png",
+        "description": "If you’re a golfer, you have surely heard of Srixon. World-renowned for its golf balls and holding the largest number of golf ball patents in the world, Srixon develops golfing equipment including balls, clubs, gloves, bags, headwear and other accessories.",
+        "quote": "",
+        "quoted": "",
+        "tag": "Sports",
+        "video": false,
+        "case_study": true
+    },
+    {
+        "id": "Hallmark",
+        "logo": "./dist/assets/customers/hallmark_color-1.png",
+        "description": "Since you haven't come across the Gidbinn yet, the dagger must be deeper in the jungle, nearer Kurast.",
+        "quote": "",
+        "quoted": "",
+        "tag": "Home & Gifts",
+        "video": false,
+        "case_study": true
+    },
+    {
+        "id": "Rip Curl",
+        "logo": "./dist/assets/customers/rip_curl.png",
+        "description": "Rip Curl is a company for, and about, the crew on The Search. The products we make, the events we run, the riders we support and the people we reach globally, are all part of the Search that Rip Curl is on.",
+        "quote": "",
+        "quoted": "",
+        "tag": "Fashion",
+        "video": false,
+        "case_study": true
+    }
+]
