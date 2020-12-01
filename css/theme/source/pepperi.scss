@@ -15,6 +15,7 @@
 
 // Override theme settings (see ../template/settings.scss)
 $mainBrandDark: #6e960a;
+$mainBrand: #93C90E;
 $secondaryBrand: #fe5000;
 
 $mainFont: "Inter", sans-serif;
@@ -40,6 +41,12 @@ $selectionBackgroundColor: rgba(79, 64, 28, 0.99);
 @import "../template/theme";
 // ---------------------------------------------
 
+$shadow-sm: 0px 1px 1px 0 rgba(0, 0, 0, 0.04), 0px 2px 2px 0 rgba(0, 0, 0, 0.04),
+    0px 3px 3px 0 rgba(0, 0, 0, 0.04), 0px 4px 4px 0 rgba(0, 0, 0, 0.04);
+$shadow-md: 0px 2px 2px 0 rgba(0, 0, 0, 0.06), 0px 4px 4px 0 rgba(0, 0, 0, 0.06),
+    0px 8px 8px 0 rgba(0, 0, 0, 0.06), 0px 16px 16px 0 rgba(0, 0, 0, 0.06);
+
+//
 .reveal h1,
 .reveal h2 {
     font-weight: 700;
@@ -54,7 +61,7 @@ $selectionBackgroundColor: rgba(79, 64, 28, 0.99);
 .main-cover {
     display: grid;
     grid-template-columns: auto 1fr;
-    &__content{
+    &__content {
         text-align: start;
         align-self: center;
     }
@@ -66,5 +73,25 @@ $selectionBackgroundColor: rgba(79, 64, 28, 0.99);
     }
     img {
         transform: scale(1.25);
+    }
+}
+#logos-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 0.5em;
+    .logo-item {
+        background-color: white;
+        box-shadow: $shadow-sm;
+        padding: 0.4em 0.6em 0.25em 0.6em;
+        border-radius: 0.125em;
+        border-bottom: solid 0.1em $mainBrand;
+    }
+    .logo-title {
+        font-size: 0.5em;
+    }
+    img {
+        margin: 0;
+        max-width: 100%;
+        max-height: 100%;
     }
 }
